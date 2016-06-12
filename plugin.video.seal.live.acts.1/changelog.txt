@@ -1,0 +1,7 @@
+
+[B]12/06/2016 - Versão 0.1[/B] 
+- Eliminada a necessidade de login obrigatório no Youtube. 
+  Adicionado SealMusic como provider
+
+[B]13/06/2016 - Versão 0.1[/B] 
+- Versão de lançamento
