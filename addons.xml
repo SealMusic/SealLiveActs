@@ -1,24 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.seal.live.acts.1"
-	name="Seal Live Acts !#"
-	version="0.0.1"
-	provider-name="SealMusic">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.addon.common" version="2.0.0"/>
-    <import addon="plugin.video.youtube" version="5.0.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">SealMusic - Live Acts</summary>
-    <description lang="en">Music Live Acts from All Aroun the World</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
 <addon id="plugin.video.sealmusic" name="Seal Music Live Acts" version="0.1" provider-name="SealMusic">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
