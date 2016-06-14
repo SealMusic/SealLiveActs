@@ -48,7 +48,7 @@ def main_list(params):
 	plugintools.add_item(title = "ACOUSTIC LIVE ACTS", url = base + "playlist/PLvD9-mRSTbHYlCpk-rkTqhfZqz8UNY8sR/", thumbnail = icon04, fanart = fan01, folder = True)
 	plugintools.add_item(title = "BRASIL LIVE ACTS", url = base + "playlist/PLvD9-mRSTbHb8wCpD29YIyIyKtFgmkY-x/", thumbnail = icon05, fanart = fan01, folder = True)
 	plugintools.add_item(title = "ACUSTICOS AO VIVO", url = base + "playlist/PLvD9-mRSTbHaa2VlyR_t5gIGaOBIBOZ6O/", thumbnail = icon06, fanart = fan01, folder = True)	
-	plugintools.add_item(title = "", url = base + "", thumbnail = icon07, fanart = fan01, folder = False)
+	plugintools.add_item(title = "MUSICA NACIONAl", url = base + "channel/UC1RzK2_Ebk8bQ5A9H2PiT0g/", thumbnail = icon01, fanart = fan01, folder = True)
 	plugintools.add_item(title = "", url = base + "", thumbnail = icon08, fanart = fan01, folder = False)
 	plugintools.add_item(title = "", url = base + "", thumbnail = icon09, fanart = fan01, folder = False)
 
