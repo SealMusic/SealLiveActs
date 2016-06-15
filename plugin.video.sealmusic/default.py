@@ -48,8 +48,8 @@ def main_list(params):
 	plugintools.add_item(title = "ACOUSTIC LIVE ACTS", url = base + "playlist/PLvD9-mRSTbHYlCpk-rkTqhfZqz8UNY8sR/", thumbnail = icon04, fanart = fan01, folder = True)
 	plugintools.add_item(title = "BRASIL LIVE ACTS", url = base + "playlist/PLvD9-mRSTbHb8wCpD29YIyIyKtFgmkY-x/", thumbnail = icon05, fanart = fan01, folder = True)
 	plugintools.add_item(title = "ACUSTICOS AO VIVO", url = base + "playlist/PLvD9-mRSTbHaa2VlyR_t5gIGaOBIBOZ6O/", thumbnail = icon06, fanart = fan01, folder = True)	
-	plugintools.add_item(title = "MUSICA NACIONAL - CANTORES", url = base + "channel/UCEzguITi3cu4ZdrJXkUSkCw/playlists/", thumbnail = icon01, fanart = fan01, folder = True)
-	plugintools.add_item(title = "", url = base + "", thumbnail = icon00, fanart = fan01, folder = False)
+	plugintools.add_item(title = "CANTORES NACIONAIS", url = base + "channel/UCEzguITi3cu4ZdrJXkUSkCw/playlists/", thumbnail = icon07, fanart = fan01, folder = True)
+	plugintools.add_item(title = "CANTORES INETRNACIONAIS", url = base + "channel/UCeFfzQd6mx1HQX0BVELcpzg/playlists/", thumbnail = icon08, fanart = fan01, folder = True)
 	plugintools.add_item(title = "", url = base + "", thumbnail = icon09, fanart = fan01, folder = False)
 
 	xbmcplugin.setContent(int(sys.argv[1]), 'movies')
